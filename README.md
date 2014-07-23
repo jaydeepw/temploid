@@ -13,4 +13,4 @@ Why this project?
 
 Features
 =========
-1. 
+1. Simplicity
