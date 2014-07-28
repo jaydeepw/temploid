@@ -13,7 +13,8 @@ Why this project?
 
 Features
 =========
-1. 
+1. Simplicity
+2. No dependency so far.
 
 
 Alternatives to Temploid
